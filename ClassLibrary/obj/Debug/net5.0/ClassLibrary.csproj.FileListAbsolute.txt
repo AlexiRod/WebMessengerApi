@@ -1,0 +1,12 @@
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb

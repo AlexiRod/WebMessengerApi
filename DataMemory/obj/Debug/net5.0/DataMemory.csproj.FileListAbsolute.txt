@@ -1,0 +1,15 @@
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\DataMemory\bin\Debug\net5.0\ClassLibrary.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\DataMemory\obj\Debug\net5.0\DataMemory.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\DataMemory\obj\Debug\net5.0\DataMemory.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\DataMemory\obj\Debug\net5.0\DataMemory.AssemblyInfoInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\DataMemory\obj\Debug\net5.0\DataMemory.AssemblyInfo.cs
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\DataMemory\bin\Debug\net5.0\DataMemory.deps.json
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\DataMemory\bin\Debug\net5.0\DataMemory.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\DataMemory\bin\Debug\net5.0\ref\DataMemory.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\DataMemory\bin\Debug\net5.0\DataMemory.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\DataMemory\bin\Debug\net5.0\ClassLibrary.pdb
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\DataMemory\obj\Debug\net5.0\DataMemory.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\DataMemory\obj\Debug\net5.0\DataMemory.csproj.CopyComplete
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\DataMemory\obj\Debug\net5.0\DataMemory.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\DataMemory\obj\Debug\net5.0\ref\DataMemory.dll
+D:\ВШЭ\Прога\Домашки\Peer Grade\WebMessenger\DataMemory\obj\Debug\net5.0\DataMemory.pdb

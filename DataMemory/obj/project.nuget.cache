@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m/SrFLbSXCNV2MKan4FCwyorxndTwri+kXddksSeqrUDFlz9wyPMGht+poRZCMdp5PforKqSQn85a00gg/E0yA==",
+  "success": true,
+  "projectFilePath": "D:\\HSE\\Разное\\1 курс\\Прога\\Домашки\\Peer Grade\\Старое, дряхлое и ненужное\\Проекты\\WebMessenger\\DataMemory\\DataMemory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ax\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

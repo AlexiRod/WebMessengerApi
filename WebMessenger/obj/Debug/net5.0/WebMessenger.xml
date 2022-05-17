@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebMessenger</name>
+    </assembly>
+    <members>
+        <member name="M:WebMessenger.Controllers.MessagesController.GenerateMessages">
+            <summary>
+            Случайная генерация сообщений.
+            </summary>
+            <response code="200">Сообщения успешно сгенерированы.</response>
+            <response code="400">Неизвестная ошибка.</response>
+            <response code="404">Список пользователей пуст.</response>
+            <response code="500">Ошибка при работе с файлом.</response>
+        </member>
+        <member name="M:WebMessenger.Controllers.MessagesController.SendMessage(ClassLibrary.Message)">
+            <summary>
+            Отправка сообщения.
+            </summary>
+            <response code="200">Сообщение успешно отправлено.</response>
+            <response code="400">Параметры Id для отправителя и получателя заданы неверно.</response>
+            <response code="500">Ошибка при работе с файлом.</response>
+        </member>
+        <member name="M:WebMessenger.Controllers.MessagesController.GetAllMessages">
+            <summary>
+            Получение всех сообщений.
+            </summary>
+            <response code="200">Сообщения успешно получены.</response>
+            <response code="400">Неизвестная ошибка.</response>
+            <response code="404">Список сообщений пуст.</response>
+            <response code="500">Ошибка при работе с файлом.</response>
+        </member>
+        <member name="M:WebMessenger.Controllers.MessagesController.GetMessagesIds(System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>
+            Получение сообщений по ID отправителя и получателя.
+            </summary>
+            <response code="200">Сообщения успешно получены.</response>
+            <response code="400">Неизвестная ошибка.</response>
+            <response code="404">Сообщений с такими ID отправителя и получателя не найдены.</response>
+            <response code="500">Ошибка при работе с файлом.</response>
+        </member>
+        <member name="M:WebMessenger.Controllers.MessagesController.GetMessagesIdr(System.Nullable{System.Int32})">
+            <summary>
+            Получение сообщений по ID получателя.
+            </summary>
+            <response code="200">Сообщения успешно получены.</response>
+            <response code="400">Неизвестная ошибка.</response>
+            <response code="404">Сообщений с таким ID получателя не найдены.</response>
+            <response code="500">Ошибка при работе с файлом.</response>
+        </member>
+        <member name="M:WebMessenger.Controllers.MessagesController.GetMessagesIds(System.Nullable{System.Int32})">
+            <summary>
+            Получение сообщений по ID отправителя.
+            </summary>
+            <response code="200">Сообщения успешно получены.</response>
+            <response code="400">Неизвестная ошибка.</response>
+            <response code="404">Сообщений с таким ID отправителя не найдены.</response>
+            <response code="500">Ошибка при работе с файлом.</response>
+        </member>
+        <member name="M:WebMessenger.Controllers.MessagesController.GenerateMessage(System.Int32,System.Int32)">
+            <summary>
+            Создание случайного Сообщения.
+            </summary>
+        </member>
+        <member name="M:WebMessenger.Controllers.MessagesController.GenerateString(System.Boolean,System.Int32,System.Int32)">
+            <summary>
+            Создание случайной строки.
+            </summary>
+        </member>
+        <member name="M:WebMessenger.Controllers.UsersController.GenerateUsers">
+            <summary>
+            Случайная генерация пользователей.
+            </summary>
+            <response code="200">Пользователи успешно сгенерированы.</response>
+            <response code="400">Неизвестная ошибка.</response>
+            <response code="500">Ошибка при работе с файлом.</response>
+        </member>
+        <member name="M:WebMessenger.Controllers.UsersController.RegistrateUsers(ClassLibrary.User)">
+            <summary>
+            Регистрация пользователя.
+            </summary>
+            <response code="200">Пользователь успешно зарегестрирован.</response>
+            <response code="400">Такой пользователь уже существует.</response>
+            <response code="404">Неизвестная ошибка.</response>
+            <response code="500">Ошибка при работе с файлом.</response>
+        </member>
+        <member name="M:WebMessenger.Controllers.UsersController.GetAllUsers">
+            <summary>
+            Получение всех пользователей.
+            </summary>
+            <response code="200">Пользователи успешно получены.</response>
+            <response code="400">Неизвестная ошибка.</response>
+            <response code="404">Список пользователей пуст.</response>
+            <response code="500">Ошибка при работе с файлом.</response>
+        </member>
+        <member name="M:WebMessenger.Controllers.UsersController.GetUserById(System.Nullable{System.Int32})">
+            <summary>
+            Получение пользователя по ID.
+            </summary>
+            <response code="200">Пользователь успешно получен.</response>
+            <response code="400">Неизвестная ошибка.</response>
+            <response code="404">Пользователь с таким ID не найден.</response>
+            <response code="500">Ошибка при работе с файлом.</response>
+        </member>
+        <member name="M:WebMessenger.Controllers.UsersController.GetUserByEmail(System.String)">
+            <summary>
+            Получение пользователя по email.
+            </summary>
+            <response code="200">Пользователь успешно получен.</response>
+            <response code="400">Неизвестная ошибка.</response>
+            <response code="404">Пользователь с таким email не найден.</response>
+            <response code="500">Ошибка при работе с файлом.</response>
+        </member>
+        <member name="M:WebMessenger.Controllers.UsersController.GetUsersWithParams(System.Int32,System.Int32)">
+            <summary>
+            Получение всех пользователей с заданными параметрами Limit и Offset.
+            </summary>
+            <response code="200">Пользователи успешно получены.</response>
+            <response code="400">Неверно заданные параметры.</response>
+            <response code="404">Список пользователей пуст.</response>
+            <response code="500">Ошибка при работе с файлом.</response>
+        </member>
+        <member name="M:WebMessenger.Controllers.UsersController.GenerateEmail">
+            <summary>
+            Создание случайного Email-a.
+            </summary>
+        </member>
+        <member name="M:WebMessenger.Controllers.UsersController.GenerateString(System.Boolean,System.Int32,System.Int32)">
+            <summary>
+            Создание случайной строки.
+            </summary>
+        </member>
+    </members>
+</doc>
